@@ -1,6 +1,6 @@
 <?php
-$password = $_GET["P"];
-$username = $_GET["u"];
+$password = $_GET["psw"];
+$username = $_GET["uname"];
 echo($username);
 echo($password);
 
